@@ -81,9 +81,9 @@ A responsive personal portfolio website built using HTML, CSS, and GitHub Pages.
 1. Went to the repository on GitHub.
 2. Navigated to **Settings > Pages**.
 3. Selected the `main` branch and clicked **Save**.
-4. GitHub generated a live link to access the website.
-   https://harsha2727.github.io/website/Portfolio
-6. Tested the link to ensure the website loaded properly.
+4. GitHub generated a live link to access the website:  
+   🔗 https://harsha2727.github.io/website/Portfolio
+5. Tested the link to ensure the website loaded properly.
 
 ---
 
@@ -104,4 +104,3 @@ A responsive personal portfolio website built using HTML, CSS, and GitHub Pages.
 🚀 [Visit My Portfolio](https://harsha2727.github.io/website/Portfolio)
 
 ---
-
