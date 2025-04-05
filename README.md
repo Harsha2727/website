@@ -101,7 +101,7 @@ A responsive personal portfolio website built using HTML, CSS, and GitHub Pages.
 
 ## 📌 Live Website
 
-🚀 [Visit My Portfolio]((https://harsha2727.github.io/website/Portfolio))
+🚀 [Visit My Portfolio](https://harsha2727.github.io/website/Portfolio)
 
 ---
 
